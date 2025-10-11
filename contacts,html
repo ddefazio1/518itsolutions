@@ -19,7 +19,7 @@
             <li><a href="contacts.html">Contact</a></li>
         </ul>
     </nav>
-    <section id="contact">
+    <section id="contacts">
         <h2>Contact Us</h2>
         <p>Email: <a href="mailto:ddefazio@518itsolutions.com">ddefazio@518itsolutions.com</a></p>
         <p>Phone: (518) 629-5630</p>
