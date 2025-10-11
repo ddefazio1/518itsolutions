@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us - 518 IT Solutions</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>518 IT Solutions</h1>
+        <p>Your Trusted Partner for Cybersecurity and Managed IT in the Capital District</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="services.html">Services</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+    <section id="contact" class="contact">
+        <h2>Contact Us</h2>
+        <p>Email: <a href="mailto:ddefazio@518itsolutions.com">ddefazio@518itsolutions.com</a></p>
+        <p>Phone: (518) 629-5630</p>
+        <p>Schedule a Free Consultation: <a href="https://calendly.com/yourusername">Book Now</a></p>
+    </section>
+    <footer>
+        <p>&copy; 2025 518 IT Solutions. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
