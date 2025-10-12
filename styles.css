@@ -17,3 +17,4 @@ section { padding: 50px 20px; max-width: 1200px; margin: auto; }
 #contacts a:hover { color: #f8f9fa; }
 footer { background: #333; color: white; text-align: center; padding: 20px; }
 @media (max-width: 768px) { h1 { font-size: 2em; } nav ul li { display: block; margin: 10px 0; } }
+.tagline { font-size: 1.2em; font-style: italic; margin-top: 10px; color: #f8f9fa; }
